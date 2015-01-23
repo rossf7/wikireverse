@@ -1,0 +1,274 @@
+{
+    "Envelope": {
+        "Format": "WARC",
+        "WARC-Header-Length": "578",
+        "Block-Digest": "sha1:OVN4E4QEDSP5WARNDTL47A4JOD7V57KI",
+        "Actual-Content-Length": "9019",
+        "WARC-Header-Metadata": {
+            "WARC-Type": "response",
+            "WARC-Date": "2013-12-22T11:53:38Z",
+            "WARC-Warcinfo-ID": "<urn:uuid:8746bab2-8935-464b-8d99-02c4890ead94>",
+            "Content-Length": "9019",
+            "WARC-Record-ID": "<urn:uuid:361f2cc5-8e80-4f02-8f47-4317c19cb22e>",
+            "WARC-Block-Digest": "sha1:OVN4E4QEDSP5WARNDTL47A4JOD7V57KI",
+            "WARC-Payload-Digest": "sha1:MYHA77PSC55YMIMMKKLILOGWG4GXJNSH",
+            "WARC-Target-URI": "http://example.com/contact/",
+            "WARC-IP-Address": "207.106.72.70",
+            "WARC-Concurrent-To": "<urn:uuid:2a3ef3cc-579d-4db1-91ec-d848b7219528>",
+            "Content-Type": "application/http; msgtype=response"
+        },
+        "Payload-Metadata": {
+            "Trailing-Slop-Length": "4",
+            "Actual-Content-Type": "application/http; msgtype=response",
+            "HTTP-Response-Metadata": {
+                "Headers": {
+                    "X-AspNet-Version": "2.0.50727",
+                    "Date": "Sun, 22 Dec 2013 11:51:58 GMT",
+                    "Content-Length": "8705",
+                    "Set-Cookie": "ASP.NET_SessionId=2j42gi55qh1m1paxlpn5noyj; path=/; HttpOnly",
+                    "Content-Type": "text/html; charset=utf-8",
+                    "Connection": "close",
+                    "X-Powered-By": "ASP.NET",
+                    "Server": "Microsoft-IIS/6.0",
+                    "Cache-Control": "private"
+                },
+                "Headers-Length": "314",
+                "Entity-Length": "8705",
+                "Entity-Trailing-Slop-Bytes": "0",
+                "Response-Message": {
+                    "Status": "200",
+                    "Version": "HTTP/1.1",
+                    "Reason": "OK"
+                },
+                "HTML-Metadata": {
+                    "Links": [
+                        {
+                            "text": "What is this?",
+                            "target": "_blank",
+                            "path": "A@/href",
+                            "url": "http://En.wikipedia.org/wiki/Ruby"
+                        },
+                        {
+                            "text": "What is this?",
+                            "target": "_blank",
+                            "path": "A@/href",
+                            "url": "http://en.wikipedia.org/wiki/Captcha"
+                        },
+                        {
+                            "path": "FORM@/action",
+                            "method": "post",
+                            "url": "report_event_problem.aspx?id=77021"
+                        },
+                        {
+                            "alt": "Report an Event Problem",
+                            "path": "IMG@/src",
+                            "url": "http://www.post-gazette.com/events/images/468x40masteventproblem.gif"
+                        },
+                        {
+                            "path": "IMG@/src",
+                            "url": "CaptchaImage.aspx?guid=fd7d135b-29f8-412e-8bea-fe4918b4a5ac"
+                        },
+                        {
+                            "alt": "Subscribe",
+                            "path": "IMG@/src",
+                            "url": "http://www.post-gazette.com/includes/2007design/images/icons/white/subscribe.png"
+                        },
+                        {
+                            "text": "Subscribe and save",
+                            "path": "A@/href",
+                            "url": "http://www.post-gazette.com/pgdelivery/currentSpecialOffer.asp"
+                        },
+                        {
+                            "alt": "Report News",
+                            "path": "IMG@/src",
+                            "url": "http://www.post-gazette.com/includes/2007design/images/icons/white/report.png"
+                        },
+                        {
+                            "text": "Report news to the PG",
+                            "path": "A@/href",
+                            "url": "http://biz.post-gazette.com/contact/comments_form.aspx?ID=37"
+                        },
+                        {
+                            "alt": "Email",
+                            "path": "IMG@/src",
+                            "url": "http://www.post-gazette.com/includes/2007design/images/icons/white/email.png"
+                        },
+                        {
+                            "text": "Get Email headlines",
+                            "path": "A@/href",
+                            "url": "http://www.post-gazette.com/aboutpg/emailheadlines/"
+                        },
+                        {
+                            "alt": "Classified",
+                            "path": "IMG@/src",
+                            "url": "http://www.post-gazette.com/includes/2007design/images/icons/white/placeanad.png"
+                        },
+                        {
+                            "text": "Place a Classified Ad",
+                            "path": "A@/href",
+                            "url": "http://www.post-gazette.com/placead/"
+                        },
+                        {
+                            "alt": "RSS",
+                            "path": "IMG@/src",
+                            "url": "http://www.post-gazette.com/includes/2007design/images/icons/white/rss.png"
+                        },
+                        {
+                            "text": "Subscribe to RSS feeds",
+                            "path": "A@/href",
+                            "url": "/rss/news.xml"
+                        },
+                        {
+                            "alt": "Place a Celebrations Ad",
+                            "path": "IMG@/src",
+                            "url": "http://www.post-gazette.com/includes/2007design/images/icons/white/save.png"
+                        },
+                        {
+                            "text": "Place a Celebrations Ad",
+                            "path": "A@/href",
+                            "url": "http://biz.post-gazette.com/contact/OrderCelebrations.aspx"
+                        },
+                        {
+                            "alt": "Pittsburgh Mom",
+                            "path": "IMG@/src",
+                            "url": "http://www.post-gazette.com/includes/2007design/images/icons/white/realestateguide.png"
+                        },
+                        {
+                            "text": "Pittsburgh Mom",
+                            "path": "A@/href",
+                            "url": "http://pittsburghmom.com/"
+                        },
+                        {
+                            "alt": "Games",
+                            "path": "IMG@/src",
+                            "url": "http://www.post-gazette.com/includes/2007design/images/icons/white/game.png"
+                        },
+                        {
+                            "text": "Games",
+                            "path": "A@/href",
+                            "url": "http://www.post-gazette.com/fantasysports/"
+                        },
+                        {
+                            "alt": "Coupons",
+                            "path": "IMG@/src",
+                            "url": "http://www.post-gazette.com/includes/2007design/images/icons/white/coupons.png"
+                        },
+                        {
+                            "text": "Coupons",
+                            "path": "A@/href",
+                            "url": "http://www.post-gazette.com/xtras/coupons/"
+                        },
+                        {
+                            "alt": "PG Store",
+                            "path": "IMG@/src",
+                            "url": "http://www.post-gazette.com/includes/2007design/images/icons/pgstore.png"
+                        },
+                        {
+                            "text": "Shop the PG store",
+                            "path": "A@/href",
+                            "url": "http://www.post-gazette.com/pgstore/"
+                        }
+                    ],
+                    "Head": {
+                        "Link": [
+                            {
+                                "path": "LINK@/href",
+                                "rel": "stylesheet",
+                                "type": "text/css",
+                                "url": "http://www.post-gazette.com/includes/2007design/css/pg_main.css"
+                            },
+                            {
+                                "path": "LINK@/href",
+                                "rel": "stylesheet",
+                                "type": "text/css",
+                                "url": "http://www.post-gazette.com/includes/2007design/css/pg_print.css"
+                            }
+                        ],
+                        "Scripts": [
+                            {
+                                "path": "SCRIPT@/src",
+                                "type": "text/javascript",
+                                "url": "http://www.post-gazette.com/includes/2007design/js/prototype.js"
+                            },
+                            {
+                                "path": "SCRIPT@/src",
+                                "type": "text/javascript",
+                                "url": "http://www.post-gazette.com/includes/2007design/js/postgazette.js"
+                            },
+                            {
+                                "path": "SCRIPT@/src",
+                                "type": "text/javascript",
+                                "url": "http://www.post-gazette.com/includes/2007design/js/menus.js"
+                            },
+                            {
+                                "path": "SCRIPT@/src",
+                                "type": "text/javascript",
+                                "url": "http://www.post-gazette.com/includes/2007design/js/scriptaculous.js?effects"
+                            },
+                            {
+                                "path": "SCRIPT@/src",
+                                "type": "text/javascript",
+                                "url": "http://www.post-gazette.com/includes/ajax/xmlparse.js"
+                            },
+                            {
+                                "path": "SCRIPT@/src",
+                                "url": "http://oascentral.post-gazette.com/Scripts/oas_analytics.js"
+                            },
+                            {
+                                "path": "SCRIPT@/src",
+                                "type": "text/javascript",
+                                "url": "http://old.post-gazette.com/includes/OAS_247/OAS_Mjx_Config.js"
+                            },
+                            {
+                                "path": "SCRIPT@/src",
+                                "type": "text/javascript",
+                                "url": "http://old.post-gazette.com/includes/OAS_247/OAS_Mjx_Functions.js"
+                            },
+                            {
+                                "path": "SCRIPT@/src",
+                                "type": "text/javascript",
+                                "url": "http://www.post-gazette.com/templates/desktop/pages/vendors/old_site/header_0005.js"
+                            }
+                        ],
+                        "Metas": [
+                            {
+                                "content": "events",
+                                "name": "keywords"
+                            },
+                            {
+                                "content": "Microsoft Visual Studio .NET 7.1",
+                                "name": "GENERATOR"
+                            },
+                            {
+                                "content": "Visual Basic .NET 7.1",
+                                "name": "CODE_LANGUAGE"
+                            },
+                            {
+                                "content": "JavaScript",
+                                "name": "vs_defaultClientScript"
+                            },
+                            {
+                                "content": "http://schemas.microsoft.com/intellisense/ie5",
+                                "name": "vs_targetSchema"
+                            }
+                        ],
+                        "Title": "Home Page"
+                    }
+                },
+                "Entity-Digest": "sha1:MYHA77PSC55YMIMMKKLILOGWG4GXJNSH"
+            }
+        }
+    },
+    "Container": {
+        "Compressed": true,
+        "Gzip-Metadata": {
+            "Footer-Length": "8",
+            "Deflate-Length": "3596",
+            "Header-Length": "10",
+            "Inflated-CRC": "-637825490",
+            "Inflated-Length": "9601"
+        },
+        "Offset": "15742835",
+        "Filename": "CC-MAIN-20131218055411-00099-ip-10-33-133-15.ec2.internal.warc.gz"
+    }
+}

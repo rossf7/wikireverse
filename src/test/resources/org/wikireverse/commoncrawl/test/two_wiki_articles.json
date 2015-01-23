@@ -1,0 +1,1196 @@
+{
+    "Envelope": {
+        "Format": "WARC",
+        "WARC-Header-Length": "613",
+        "Block-Digest": "sha1:LKSRWAVYQII7DK6HPEHY3466EJVMIAYV",
+        "Actual-Content-Length": "152697",
+        "WARC-Header-Metadata": {
+            "WARC-Type": "response",
+            "WARC-Truncated": "length",
+            "WARC-Date": "2014-07-10T01:49:13Z",
+            "WARC-Warcinfo-ID": "<urn:uuid:d6e9e160-6e97-4a71-8821-0f3e7df206a6>",
+            "Content-Length": "152697",
+            "WARC-Record-ID": "<urn:uuid:9629d164-0f4c-4ff5-95cf-5f28fa3e170d>",
+            "WARC-Block-Digest": "sha1:LKSRWAVYQII7DK6HPEHY3466EJVMIAYV",
+            "WARC-Payload-Digest": "sha1:KBA2OYY422T3BXHERLO3E4XUKJTDT4J5",
+            "WARC-Target-URI": "https://www.owasp.org/index.php?title=AppSecAsiaPac2013&oldid=147814&diff=prev",
+            "WARC-IP-Address": "192.237.166.62",
+            "WARC-Concurrent-To": "<urn:uuid:e6a833c2-1c34-447a-be49-252ed8b9c9e0>",
+            "Content-Type": "application/http; msgtype=response"
+        },
+        "Payload-Metadata": {
+            "Trailing-Slop-Length": "4",
+            "Actual-Content-Type": "application/http; msgtype=response",
+            "HTTP-Response-Metadata": {
+                "Headers": {
+                    "Content-language": "en",
+                    "X-Frame-Options": "Deny",
+                    "Vary": "Accept-Encoding,Cookie",
+                    "Date": "Thu, 10 Jul 2014 01:49:12 GMT",
+                    "Expires": "Thu, 01 Jan 1970 00:00:00 GMT",
+                    "X-XSS-Protection": "1; mode=block",
+                    "Content-Encoding": "gzip",
+                    "Content-Type": "text/html; charset=UTF-8",
+                    "Connection": "close",
+                    "Server": "Apache",
+                    "Cache-Control": "private, must-revalidate, max-age=0",
+                    "X-Content-Type-Options": "nosniff"
+                },
+                "Headers-Length": "388",
+                "Entity-Length": "152309",
+                "Entity-Trailing-Slop-Bytes": "0",
+                "Response-Message": {
+                    "Status": "200",
+                    "Version": "HTTP/1.1",
+                    "Reason": "OK"
+                },
+                "HTML-Metadata": {
+                    "Links": [
+                        {
+                            "text": "navigation",
+                            "path": "A@/href",
+                            "url": "#mw-navigation"
+                        },
+                        {
+                            "text": "search",
+                            "path": "A@/href",
+                            "url": "#p-search"
+                        },
+                        {
+                            "text": "Revision as of 17:17, 12 March 2013",
+                            "title": "AppSecAsiaPac2013",
+                            "path": "A@/href",
+                            "url": "/index.php?title=AppSecAsiaPac2013&amp;oldid=147725"
+                        },
+                        {
+                            "text": "view source",
+                            "title": "AppSecAsiaPac2013",
+                            "path": "A@/href",
+                            "url": "/index.php?title=AppSecAsiaPac2013&amp;action=edit&amp;oldid=147725"
+                        },
+                        {
+                            "text": "Sarah Baso",
+                            "title": "User:Sarah Baso",
+                            "path": "A@/href",
+                            "url": "/index.php/User:Sarah_Baso"
+                        },
+                        {
+                            "text": "Talk",
+                            "title": "User talk:Sarah Baso",
+                            "path": "A@/href",
+                            "url": "/index.php/User_talk:Sarah_Baso"
+                        },
+                        {
+                            "text": "contribs",
+                            "title": "Special:Contributions/Sarah Baso",
+                            "path": "A@/href",
+                            "url": "/index.php/Special:Contributions/Sarah_Baso"
+                        },
+                        {
+                            "text": "← Older edit",
+                            "title": "AppSecAsiaPac2013",
+                            "path": "A@/href",
+                            "url": "/index.php?title=AppSecAsiaPac2013&amp;diff=prev&amp;oldid=147725"
+                        },
+                        {
+                            "text": "Revision as of 10:33, 13 March 2013",
+                            "title": "AppSecAsiaPac2013",
+                            "path": "A@/href",
+                            "url": "/index.php?title=AppSecAsiaPac2013&amp;oldid=147814"
+                        },
+                        {
+                            "text": "view source",
+                            "title": "AppSecAsiaPac2013",
+                            "path": "A@/href",
+                            "url": "/index.php?title=AppSecAsiaPac2013&amp;action=edit&amp;oldid=147814"
+                        },
+                        {
+                            "text": "Sarah Baso",
+                            "title": "User:Sarah Baso",
+                            "path": "A@/href",
+                            "url": "/index.php/User:Sarah_Baso"
+                        },
+                        {
+                            "text": "Talk",
+                            "title": "User talk:Sarah Baso",
+                            "path": "A@/href",
+                            "url": "/index.php/User_talk:Sarah_Baso"
+                        },
+                        {
+                            "text": "contribs",
+                            "title": "Special:Contributions/Sarah Baso",
+                            "path": "A@/href",
+                            "url": "/index.php/Special:Contributions/Sarah_Baso"
+                        },
+                        {
+                            "text": "Newer edit →",
+                            "title": "AppSecAsiaPac2013",
+                            "path": "A@/href",
+                            "url": "/index.php?title=AppSecAsiaPac2013&amp;diff=next&amp;oldid=147814"
+                        },
+                        {
+                            "alt": "Owasp banner 7b.jpg",
+                            "path": "IMG@/src",
+                            "url": "/images/thumb/3/3e/Owasp_banner_7b.jpg/1100px-Owasp_banner_7b.jpg"
+                        },
+                        {
+                            "path": "A@/href",
+                            "url": "/index.php/File:Owasp_banner_7b.jpg"
+                        },
+                        {
+                            "text": "Register Now",
+                            "path": "A@/href",
+                            "url": "http://sl.owasp.org/apac13_register"
+                        },
+                        {
+                            "text": "View in Korean",
+                            "path": "A@/href",
+                            "url": "http://appsec.owasp.or.kr/"
+                        },
+                        {
+                            "text": "edit",
+                            "title": "Edit tab",
+                            "path": "A@/href",
+                            "url": ""
+                        },
+                        {
+                            "text": "Welcome",
+                            "path": "A@/href",
+                            "url": "#Welcome"
+                        },
+                        {
+                            "text": "Training",
+                            "path": "A@/href",
+                            "url": "#Training"
+                        },
+                        {
+                            "text": "Schedule",
+                            "path": "A@/href",
+                            "url": "#Schedule"
+                        },
+                        {
+                            "text": "Keynotes",
+                            "path": "A@/href",
+                            "url": "#Keynotes"
+                        },
+                        {
+                            "text": "Speaker Bios",
+                            "path": "A@/href",
+                            "url": "#Speaker_Bios"
+                        },
+                        {
+                            "text": "Talk Abstracts and Presentations",
+                            "path": "A@/href",
+                            "url": "#Talk_Abstracts_and_Presentations"
+                        },
+                        {
+                            "text": "Open Source Projects",
+                            "path": "A@/href",
+                            "url": "#Open_Source_Projects"
+                        },
+                        {
+                            "text": "Venue",
+                            "path": "A@/href",
+                            "url": "#Venue"
+                        },
+                        {
+                            "text": "Registration and Fees",
+                            "path": "A@/href",
+                            "url": "#Registration_and_Fees"
+                        },
+                        {
+                            "text": "Sponsoring",
+                            "path": "A@/href",
+                            "url": "#Sponsoring"
+                        },
+                        {
+                            "text": "Travel and Accommodation",
+                            "path": "A@/href",
+                            "url": "#Travel_and_Accommodation"
+                        },
+                        {
+                            "text": "Networking Events",
+                            "path": "A@/href",
+                            "url": "#Networking_Events"
+                        },
+                        {
+                            "text": "Chapter Leader Workshop",
+                            "path": "A@/href",
+                            "url": "#Chapter_Leader_Workshop"
+                        },
+                        {
+                            "text": "Team",
+                            "path": "A@/href",
+                            "url": "#Team"
+                        },
+                        {
+                            "text": "OWASP South Korea chapter",
+                            "path": "A@/href",
+                            "url": "http://www.owasp.org/index.php/South_Korea"
+                        },
+                        {
+                            "text": "AppSecAPAC2013@owasp.org",
+                            "path": "A@/href",
+                            "url": "mailto:AppSecAPAC2013@owasp.org"
+                        },
+                        {
+                            "alt": "Owasp social icon.jpg",
+                            "path": "IMG@/src",
+                            "url": "/images/3/39/Owasp_social_icon.jpg"
+                        },
+                        {
+                            "path": "A@/href",
+                            "url": "/index.php/File:Owasp_social_icon.jpg"
+                        },
+                        {
+                            "text": "#AppSecAsia",
+                            "path": "A@/href",
+                            "url": "http://search.twitter.com/search?q=%23AppSecAsia"
+                        },
+                        {
+                            "text": "hashtags",
+                            "path": "A@/href",
+                            "url": "http://hashtags.org/"
+                        },
+                        {
+                            "text": "follow us on Twitter!",
+                            "path": "A@/href",
+                            "url": "http://twitter.com/AppSecAsia"
+                        },
+                        {
+                            "text": "Contact Trainer",
+                            "path": "A@/href",
+                            "url": "mailto:security@xysec.com"
+                        },
+                        {
+                            "text": "Contact Trainer",
+                            "path": "A@/href",
+                            "url": "mailto:JSpruill@trustwave.com"
+                        },
+                        {
+                            "text": "Contact Trainer",
+                            "path": "A@/href",
+                            "url": "mailto:tobias.gondrom@owasp.org"
+                        },
+                        {
+                            "text": "Contact Trainer",
+                            "path": "A@/href",
+                            "url": "mailto:zesrever@coresec.co.kr"
+                        },
+                        {
+                            "text": "Access Control Pitfalls",
+                            "path": "A@/href",
+                            "url": "https://www.owasp.org/index.php/File:Access_Control_Pitfalls_v1.5.pptx"
+                        },
+                        {
+                            "text": "OWASP Top 10 Defenses",
+                            "path": "A@/href",
+                            "url": "https://www.owasp.org/images/d/d7/OWASP_Top_Ten_Defenses_v5.pdf"
+                        },
+                        {
+                            "text": "Course Outline PDF",
+                            "path": "A@/href",
+                            "url": "https://www.owasp.org/images/5/51/MobileHackingTrainingCourseStructure-Aditya_Subho.pdf"
+                        },
+                        {
+                            "text": "http://en.wikipedia.org/wiki/Chatham_House_Rule",
+                            "path": "A@/href",
+                            "url": "http://en.wikipedia.org/wiki/Chatham_House_Rule"
+                        },
+                        {
+                            "text": "RFC 4998",
+                            "path": "A@/href",
+                            "url": "//tools.ietf.org/html/rfc4998"
+                        },
+                        {
+                            "text": "RFC 6283",
+                            "path": "A@/href",
+                            "url": "//tools.ietf.org/html/rfc6283"
+                        },
+                        {
+                            "text": "ISBN 3-87081-427-6",
+                            "path": "A@/href",
+                            "url": "/index.php/Special:BookSources/3870814276"
+                        },
+                        {
+                            "text": "PDF of Schedule Day 1 (Thursday)",
+                            "path": "A@/href",
+                            "url": "https://www.owasp.org/images/a/a2/APAC13_Thurs_Schedule.pdf"
+                        },
+                        {
+                            "text": "PDF of Schedule Day 2 (Friday)",
+                            "path": "A@/href",
+                            "url": "https://www.owasp.org/images/9/9f/APAC13_Friday_Schedule.pdf"
+                        },
+                        {
+                            "alt": "APAC13 Conference Talks Thursday.JPG",
+                            "path": "IMG@/src",
+                            "url": "/images/5/56/APAC13_Conference_Talks_Thursday.JPG"
+                        },
+                        {
+                            "path": "A@/href",
+                            "url": "https://www.owasp.org/images/a/a2/APAC13_Thurs_Schedule.pdf"
+                        },
+                        {
+                            "alt": "APAC13 Conference Talks Friday.JPG",
+                            "path": "IMG@/src",
+                            "url": "/images/b/b9/APAC13_Conference_Talks_Friday.JPG"
+                        },
+                        {
+                            "path": "A@/href",
+                            "url": "https://www.owasp.org/images/9/9f/APAC13_Friday_Schedule.pdf"
+                        },
+                        {
+                            "alt": "Kychung.png",
+                            "path": "IMG@/src",
+                            "url": "/images/thumb/b/bd/Kychung.png/100px-Kychung.png"
+                        },
+                        {
+                            "path": "A@/href",
+                            "url": "/index.php/File:Kychung.png"
+                        },
+                        {
+                            "text": "(Download the Presentation)",
+                            "path": "A@/href",
+                            "url": "https://owasp.org/images/d/d3/Keynote-KISA.pdf"
+                        },
+                        {
+                            "alt": "HJ Choi.png",
+                            "path": "IMG@/src",
+                            "url": "/images/thumb/0/06/HJ_Choi.png/100px-HJ_Choi.png"
+                        },
+                        {
+                            "path": "A@/href",
+                            "url": "/index.php/File:HJ_Choi.png"
+                        },
+                        {
+                            "text": "(Download the Presentation)",
+                            "path": "A@/href",
+                            "url": "https://owasp.org/images/b/b2/APAC13_Keynote_HyojinChoi.pdf"
+                        },
+                        {
+                            "alt": "Robertelee.jpg",
+                            "path": "IMG@/src",
+                            "url": "/images/thumb/0/02/Robertelee.jpg/100px-Robertelee.jpg"
+                        },
+                        {
+                            "path": "A@/href",
+                            "url": "/index.php/File:Robertelee.jpg"
+                        },
+                        {
+                            "text": "(Download the Presentation)",
+                            "path": "A@/href",
+                            "url": "https://owasp.org/images/7/7a/APAC13_Keynote_-_Robert_Lee.pdf"
+                        },
+                        {
+                            "alt": "Circle owasp logo nowhitebackground.png",
+                            "path": "IMG@/src",
+                            "url": "/images/thumb/a/a6/Circle_owasp_logo_nowhitebackground.png/100px-Circle_owasp_logo_nowhitebackground.png"
+                        },
+                        {
+                            "path": "A@/href",
+                            "url": "/index.php/File:Circle_owasp_logo_nowhitebackground.png"
+                        },
+                        {
+                            "text": "https://www.owasp.org/index.php/User:Brennan",
+                            "path": "A@/href",
+                            "url": "https://www.owasp.org/index.php/User:Brennan"
+                        },
+                        {
+                            "text": "RFC 4998",
+                            "path": "A@/href",
+                            "url": "//tools.ietf.org/html/rfc4998"
+                        },
+                        {
+                            "text": "RFC 6283",
+                            "path": "A@/href",
+                            "url": "//tools.ietf.org/html/rfc6283"
+                        },
+                        {
+                            "text": "http://www.wipo.int",
+                            "path": "A@/href",
+                            "url": "http://www.wipo.int"
+                        },
+                        {
+                            "text": "http://www.cisecurity.org",
+                            "path": "A@/href",
+                            "url": "http://www.cisecurity.org"
+                        },
+                        {
+                            "text": "http://www.owasp.org/",
+                            "path": "A@/href",
+                            "url": "http://www.owasp.org/"
+                        },
+                        {
+                            "text": "http://jeremiahgrossman.blogspot.com/2011/01/top-ten-web-hacking-techniques-of-2010.html",
+                            "path": "A@/href",
+                            "url": "http://jeremiahgrossman.blogspot.com/2011/01/top-ten-web-hacking-techniques-of-2010.html"
+                        },
+                        {
+                            "text": "(Download the Presentation)",
+                            "path": "A@/href",
+                            "url": "https://docs.google.com/a/owasp.org/file/d/0B5Z9zE0hx0LNZWI0UC1MbjZCSEE/edit"
+                        },
+                        {
+                            "text": "(Download the Presentation)",
+                            "path": "A@/href",
+                            "url": "https://owasp.org/images/2/2b/APAC13_Jaeson_Yoo.pdf"
+                        },
+                        {
+                            "text": "(Download the Presentation)",
+                            "path": "A@/href",
+                            "url": "https://owasp.org/images/f/f4/APAC13_Ashish_Rao.pdf"
+                        },
+                        {
+                            "text": "(Download the Presentation)",
+                            "path": "A@/href",
+                            "url": "https://owasp.org/images/2/2a/APAC13_Justin_Searle_-_Dissecting_Smart_Meters_v4.pdf"
+                        },
+                        {
+                            "text": "(Download the Presentation)",
+                            "path": "A@/href",
+                            "url": "https://drive.google.com/a/owasp.org/?tab=mo#folders/0B5Z9zE0hx0LNZmgtazBya0dFMnc"
+                        },
+                        {
+                            "text": "(Download the Presentation)",
+                            "path": "A@/href",
+                            "url": "https://owasp.org/images/6/68/APAC13_John_Ellis.pdf"
+                        },
+                        {
+                            "text": "(Download the Presentation)",
+                            "path": "A@/href",
+                            "url": "https://owasp.org/images/c/c2/APAC13_Siddharth_Anabalahan.pdf"
+                        },
+                        {
+                            "text": "(Download the Presentation)",
+                            "path": "A@/href",
+                            "url": "https://www.owasp.org/images/6/6c/APAC13_JooHanik.pdf"
+                        },
+                        {
+                            "text": "(Download the Presentation)",
+                            "path": "A@/href",
+                            "url": "https://owasp.org/images/6/6d/APAC13_ShayChen.pdf"
+                        },
+                        {
+                            "text": "(Download the Presentation)",
+                            "path": "A@/href",
+                            "url": "https://owasp.org/images/9/9f/APAC13_Ihn-Hyuk._Song.pdf"
+                        },
+                        {
+                            "text": "(Download the Presentation)",
+                            "path": "A@/href",
+                            "url": "https://owasp.org/images/5/58/APAC13_Justin_Searle_Python_Basics_for_Web_App_Pentesters.pdf"
+                        },
+                        {
+                            "text": "(Download the Presentation)",
+                            "path": "A@/href",
+                            "url": "https://owasp.org/images/0/0b/APAC13_TonyUV.pdf"
+                        },
+                        {
+                            "text": "(Download the Presentation)",
+                            "path": "A@/href",
+                            "url": "https://owasp.org/images/0/04/APAC13_Arshad_Noor.pdf"
+                        },
+                        {
+                            "text": "http://ibm.co/rc3dw",
+                            "path": "A@/href",
+                            "url": "http://ibm.co/rc3dw"
+                        },
+                        {
+                            "text": "(Download the Presentation)",
+                            "path": "A@/href",
+                            "url": "https://owasp.org/images/2/29/APAC13_Mikko_Saario.pdf"
+                        },
+                        {
+                            "text": "(Download the Presentation)",
+                            "path": "A@/href",
+                            "url": "https://owasp.org/images/6/69/APAC13_Moshe_Lerner.pdf"
+                        },
+                        {
+                            "text": "(Download the Presentation)",
+                            "path": "A@/href",
+                            "url": "https://owasp.org/images/b/b8/APAC13_TobiasGondrom.pdf"
+                        },
+                        {
+                            "text": "(Download the Presentation)",
+                            "path": "A@/href",
+                            "url": "https://owasp.org/images/4/4b/APAC13_Wong_Onn_Chee.pdf"
+                        },
+                        {
+                            "text": "(Download the Presentation)",
+                            "path": "A@/href",
+                            "url": "https://owasp.org/images/8/88/APAC13_Dennis_Groves.pdf"
+                        },
+                        {
+                            "text": "(Download the Presentation)",
+                            "path": "A@/href",
+                            "url": "https://owasp.org/images/5/57/APAC13_Jim_Manico.pdf"
+                        },
+                        {
+                            "text": "Hyatt Regency",
+                            "path": "A@/href",
+                            "url": "http://jeju.regency.hyatt.com"
+                        },
+                        {
+                            "alt": "APAC13 Floorplan.JPG",
+                            "path": "IMG@/src",
+                            "url": "/images/d/d0/APAC13_Floorplan.JPG"
+                        },
+                        {
+                            "path": "A@/href",
+                            "url": "/index.php/File:APAC13_Floorplan.JPG"
+                        },
+                        {
+                            "text": "Click Here to Register",
+                            "path": "A@/href",
+                            "url": "http://sl.owasp.org/apac13_register"
+                        },
+                        {
+                            "text": "registering for the conference",
+                            "path": "A@/href",
+                            "url": "http://sl.owasp.org/apac13_register"
+                        },
+                        {
+                            "text": "Contact Us",
+                            "path": "A@/href",
+                            "url": "mailto:appsecapac2013@owasp.org"
+                        },
+                        {
+                            "text": "Contact Us",
+                            "path": "A@/href",
+                            "url": "mailto:appsecapac2013@owasp.org"
+                        },
+                        {
+                            "text": "AppSecAPAC2013@owasp.org",
+                            "path": "A@/href",
+                            "url": "mailto:appsecAPAC2013@owasp.org"
+                        },
+                        {
+                            "text": "OWASP AppSec APAC 2013 Sponsorship Options - English",
+                            "path": "A@/href",
+                            "url": "https://www.owasp.org/images/0/0b/AppSec_APAC_2013_Sponsorship_v2.pdf"
+                        },
+                        {
+                            "text": "OWASP AppSec APAC 2013 Sponsorship Options - Korean",
+                            "path": "A@/href",
+                            "url": "https://www.owasp.org/images/7/78/AppSec_APAC_2013_Sponsorship_v3_kr.pdf"
+                        },
+                        {
+                            "text": "Conference Exhibitor Information Pack",
+                            "path": "A@/href",
+                            "url": "https://www.owasp.org/images/5/51/Exhibitor_Kit_-_AppSec_APAC_2013.pdf"
+                        },
+                        {
+                            "text": "Maria Martinez",
+                            "path": "A@/href",
+                            "url": "mailto:mariam@segaletravel.com"
+                        },
+                        {
+                            "text": "Linn Vander Molen",
+                            "path": "A@/href",
+                            "url": "mailto:linnv@segaletravel.com"
+                        },
+                        {
+                            "text": "Conference Planning Team",
+                            "path": "A@/href",
+                            "url": "mailto:appsecapac2013@owasp.org"
+                        },
+                        {
+                            "text": "Hyatt Regency Jeju",
+                            "path": "A@/href",
+                            "url": "http://jeju.regency.hyatt.com"
+                        },
+                        {
+                            "text": "Hotel Regency Information Sheet",
+                            "path": "A@/href",
+                            "url": "https://www.owasp.org/images/3/3f/HYATT_JEJU_ENGLISH_FACTSHEET.pdf"
+                        },
+                        {
+                            "text": "online conference registration",
+                            "path": "A@/href",
+                            "url": "http://sl.owasp.org/apac13_register"
+                        },
+                        {
+                            "text": "Hotel Booking Form",
+                            "path": "A@/href",
+                            "url": "https://www.owasp.org/images/3/39/2Revised_Reservation_Form_OWASP_EN.pdf"
+                        },
+                        {
+                            "text": "Hotel Map &amp; Directions",
+                            "path": "A@/href",
+                            "url": "http://jeju.regency.hyatt.com/hyatt/hotels-jeju-regency/services/maps/index.jsp?icamp=propMapDirections"
+                        },
+                        {
+                            "text": "online conference registration",
+                            "path": "A@/href",
+                            "url": "http://sl.owasp.org/apac13_register"
+                        },
+                        {
+                            "text": "register for the conference",
+                            "path": "A@/href",
+                            "url": "http://sl.owasp.org/apac13_register"
+                        },
+                        {
+                            "text": "contact us",
+                            "path": "A@/href",
+                            "url": "http://owasp4.owasp.org/contactus.htm"
+                        },
+                        {
+                            "text": "contact us",
+                            "path": "A@/href",
+                            "url": "http://owasp4.owasp.org/contactus.htm"
+                        },
+                        {
+                            "text": "Click here to sign up",
+                            "path": "A@/href",
+                            "url": "http://sl.owasp.org/apac2013_volunteer"
+                        },
+                        {
+                            "text": "appsecAPAC2013@owasp.org",
+                            "path": "A@/href",
+                            "url": "mailto:appsecAPAC2013@owasp.org"
+                        },
+                        {
+                            "alt": "Pentasecurity logo.png",
+                            "path": "IMG@/src",
+                            "url": "/images/8/8f/Pentasecurity_logo.png"
+                        },
+                        {
+                            "path": "A@/href",
+                            "url": "http://www.pentasecurity.com/"
+                        },
+                        {
+                            "alt": "Akamai Logo.png",
+                            "path": "IMG@/src",
+                            "url": "/images/8/89/Akamai_Logo.png"
+                        },
+                        {
+                            "path": "A@/href",
+                            "url": "http://www.akamai.com/"
+                        },
+                        {
+                            "alt": "ENsecure Logo AppSecAPAC 2013.png",
+                            "path": "IMG@/src",
+                            "url": "/images/3/32/ENsecure_Logo_AppSecAPAC_2013.png"
+                        },
+                        {
+                            "path": "A@/href",
+                            "url": "http://www.ensecure.co.kr"
+                        },
+                        {
+                            "alt": "Architectgroup 130131.png",
+                            "path": "IMG@/src",
+                            "url": "/images/0/08/Architectgroup_130131.png"
+                        },
+                        {
+                            "path": "A@/href",
+                            "url": "http://www.architectgroup.com"
+                        },
+                        {
+                            "alt": "Checkmarx.jpg",
+                            "path": "IMG@/src",
+                            "url": "/images/thumb/a/a2/Checkmarx.jpg/200px-Checkmarx.jpg"
+                        },
+                        {
+                            "path": "A@/href",
+                            "url": "http://www.checkmarx.com/"
+                        },
+                        {
+                            "alt": "SANS Logo 150x45.jpg",
+                            "path": "IMG@/src",
+                            "url": "/images/4/42/SANS_Logo_150x45.jpg"
+                        },
+                        {
+                            "path": "A@/href",
+                            "url": "http://www.sans.org/"
+                        },
+                        {
+                            "alt": "Checkmarx.jpg",
+                            "path": "IMG@/src",
+                            "url": "/images/thumb/a/a2/Checkmarx.jpg/200px-Checkmarx.jpg"
+                        },
+                        {
+                            "path": "A@/href",
+                            "url": "http://www.checkmarx.com/"
+                        },
+                        {
+                            "alt": "SecurityPlus logo.gif",
+                            "path": "IMG@/src",
+                            "url": "/images/3/3f/SecurityPlus_logo.gif"
+                        },
+                        {
+                            "path": "A@/href",
+                            "url": "http://www.securityplus.or.kr"
+                        },
+                        {
+                            "alt": "EC-Council Logo.png",
+                            "path": "IMG@/src",
+                            "url": "/images/b/b2/EC-Council_Logo.png"
+                        },
+                        {
+                            "path": "A@/href",
+                            "url": "http://www.ecckorea.org/"
+                        },
+                        {
+                            "alt": "Nahs logo.jpg",
+                            "path": "IMG@/src",
+                            "url": "/images/d/dc/Nahs_logo.jpg"
+                        },
+                        {
+                            "path": "A@/href",
+                            "url": "http://www.nahs.or.kr/"
+                        },
+                        {
+                            "alt": "Main logo.jpg",
+                            "path": "IMG@/src",
+                            "url": "/images/d/d7/Main_logo.jpg"
+                        },
+                        {
+                            "path": "A@/href",
+                            "url": "http://www.isc2.org"
+                        },
+                        {
+                            "alt": "EHN Logo 150.png",
+                            "path": "IMG@/src",
+                            "url": "/images/e/ea/EHN_Logo_150.png"
+                        },
+                        {
+                            "path": "A@/href",
+                            "url": "http://www.ehackingnews.com/"
+                        },
+                        {
+                            "text": "https://www.owasp.org/index.php?title=AppSecAsiaPac2013&amp;oldid=147814",
+                            "path": "A@/href",
+                            "url": "https://www.owasp.org/index.php?title=AppSecAsiaPac2013&amp;oldid=147814"
+                        },
+                        {
+                            "text": "Category",
+                            "title": "Special:Categories",
+                            "path": "A@/href",
+                            "url": "/index.php/Special:Categories"
+                        },
+                        {
+                            "text": "OWASP AppSec Conference",
+                            "title": "Category:OWASP AppSec Conference",
+                            "path": "A@/href",
+                            "url": "/index.php/Category:OWASP_AppSec_Conference"
+                        },
+                        {
+                            "text": "Log in / create account",
+                            "title": "You are encouraged to log in; however, it is not mandatory [o]",
+                            "path": "A@/href",
+                            "url": "/index.php?title=Special:UserLogin&amp;returnto=AppSecAsiaPac2013&amp;returntoquery=oldid%3D147814%26diff%3Dprev"
+                        },
+                        {
+                            "text": "Page",
+                            "title": "View the content page [c]",
+                            "path": "A@/href",
+                            "url": "/index.php/AppSecAsiaPac2013"
+                        },
+                        {
+                            "text": "Discussion",
+                            "title": "Discussion about the content page [t]",
+                            "path": "A@/href",
+                            "url": "/index.php?title=Talk:AppSecAsiaPac2013&amp;action=edit&amp;redlink=1"
+                        },
+                        {
+                            "path": "A@/href",
+                            "url": "#"
+                        },
+                        {
+                            "text": "Read",
+                            "path": "A@/href",
+                            "url": "/index.php/AppSecAsiaPac2013"
+                        },
+                        {
+                            "text": "View source",
+                            "title": "This page is protected.&#10;You can view its source [e]",
+                            "path": "A@/href",
+                            "url": "/index.php?title=AppSecAsiaPac2013&amp;action=edit&amp;oldid=147814"
+                        },
+                        {
+                            "text": "View history",
+                            "title": "Past revisions of this page [h]",
+                            "path": "A@/href",
+                            "url": "/index.php?title=AppSecAsiaPac2013&amp;action=history"
+                        },
+                        {
+                            "path": "A@/href",
+                            "url": "#"
+                        },
+                        {
+                            "path": "FORM@/action",
+                            "url": "/index.php"
+                        },
+                        {
+                            "title": "Visit the main page",
+                            "path": "A@/href",
+                            "url": "/index.php/Main_Page"
+                        },
+                        {
+                            "text": "Home",
+                            "path": "A@/href",
+                            "url": "/index.php/Main_Page"
+                        },
+                        {
+                            "text": "About OWASP",
+                            "path": "A@/href",
+                            "url": "/index.php/About_OWASP"
+                        },
+                        {
+                            "text": "Acknowledgements",
+                            "path": "A@/href",
+                            "url": "https://www.owasp.org/index.php/Acknowledgements"
+                        },
+                        {
+                            "text": "Advertising",
+                            "path": "A@/href",
+                            "url": "https://www.owasp.org/index.php/Advertising"
+                        },
+                        {
+                            "text": "AppSec Events",
+                            "path": "A@/href",
+                            "url": "/index.php/Category:OWASP_AppSec_Conference"
+                        },
+                        {
+                            "text": "Books",
+                            "path": "A@/href",
+                            "url": "http://stores.lulu.com/owasp"
+                        },
+                        {
+                            "text": "Brand Resources",
+                            "path": "A@/href",
+                            "url": "https://owasp.org/index.php/Marketing/Resources"
+                        },
+                        {
+                            "text": "Chapters",
+                            "path": "A@/href",
+                            "url": "https://www.owasp.org/index.php/OWASP_Chapter"
+                        },
+                        {
+                            "text": "Donate to OWASP",
+                            "path": "A@/href",
+                            "url": "https://www.owasp.org/index.php/Donate"
+                        },
+                        {
+                            "text": "Downloads",
+                            "path": "A@/href",
+                            "url": "/index.php/Category:OWASP_Download"
+                        },
+                        {
+                            "text": "Funding",
+                            "path": "A@/href",
+                            "url": "https://www.owasp.org/index.php/Funding"
+                        },
+                        {
+                            "text": "Governance",
+                            "path": "A@/href",
+                            "url": "https://www.owasp.org/index.php/Governance"
+                        },
+                        {
+                            "text": "Initiatives",
+                            "path": "A@/href",
+                            "url": "https://www.owasp.org/index.php/OWASP_Initiatives_Global_Strategic_Focus"
+                        },
+                        {
+                            "text": "Mailing Lists",
+                            "path": "A@/href",
+                            "url": "http://lists.owasp.org/mailman/listinfo"
+                        },
+                        {
+                            "text": "Membership",
+                            "path": "A@/href",
+                            "url": "/index.php/Membership"
+                        },
+                        {
+                            "text": "Merchandise",
+                            "path": "A@/href",
+                            "url": "https://www.owasp.org/index.php/OWASP_Merchandise"
+                        },
+                        {
+                            "text": "News",
+                            "path": "A@/href",
+                            "url": "/index.php/Application_Security_News"
+                        },
+                        {
+                            "text": "Community portal",
+                            "title": "About the project, what you can do, where to find things",
+                            "path": "A@/href",
+                            "url": "https://www.owasp.org/index.php/Portal"
+                        },
+                        {
+                            "text": "Presentations",
+                            "path": "A@/href",
+                            "url": "/index.php/Category:OWASP_Presentations"
+                        },
+                        {
+                            "text": "Press",
+                            "path": "A@/href",
+                            "url": "https://www.owasp.org/index.php/Press"
+                        },
+                        {
+                            "text": "Projects",
+                            "path": "A@/href",
+                            "url": "/index.php/Category:OWASP_Project"
+                        },
+                        {
+                            "text": "Video",
+                            "path": "A@/href",
+                            "url": "/index.php/Category:OWASP_Video"
+                        },
+                        {
+                            "text": "Volunteer",
+                            "path": "A@/href",
+                            "url": "http://owasp.force.com/volunteers/GW_Volunteers__VolunteersJobListing"
+                        },
+                        {
+                            "text": "Activities",
+                            "path": "A@/href",
+                            "url": "/index.php/Category:Activity"
+                        },
+                        {
+                            "text": "Attacks",
+                            "path": "A@/href",
+                            "url": "/index.php/Category:Attack"
+                        },
+                        {
+                            "text": "Code Snippets",
+                            "path": "A@/href",
+                            "url": "/index.php/Category:Code_Snippet"
+                        },
+                        {
+                            "text": "Controls",
+                            "path": "A@/href",
+                            "url": "/index.php/Category:Control"
+                        },
+                        {
+                            "text": "Glossary",
+                            "path": "A@/href",
+                            "url": "/index.php/Category:Glossary"
+                        },
+                        {
+                            "text": "How To...",
+                            "path": "A@/href",
+                            "url": "/index.php/Category:How_To"
+                        },
+                        {
+                            "text": "Java Project",
+                            "path": "A@/href",
+                            "url": "/index.php/Category:OWASP_Java_Project"
+                        },
+                        {
+                            "text": ".NET Project",
+                            "path": "A@/href",
+                            "url": "/index.php/Category:OWASP_.NET_Project"
+                        },
+                        {
+                            "text": "Principles",
+                            "path": "A@/href",
+                            "url": "/index.php/Category:Principle"
+                        },
+                        {
+                            "text": "Technologies",
+                            "path": "A@/href",
+                            "url": "/index.php/Category:Technology"
+                        },
+                        {
+                            "text": "Threat Agents",
+                            "path": "A@/href",
+                            "url": "/index.php/Category:Threat_Agent"
+                        },
+                        {
+                            "text": "Vulnerabilities",
+                            "path": "A@/href",
+                            "url": "/index.php/Category:Vulnerability"
+                        },
+                        {
+                            "text": "English",
+                            "path": "A@/href",
+                            "url": "https://www.owasp.org/index.php?title=AppSecAsiaPac2013&amp;setlang=en"
+                        },
+                        {
+                            "text": "español",
+                            "path": "A@/href",
+                            "url": "https://www.owasp.org/index.php?title=AppSecAsiaPac2013&amp;setlang=es"
+                        },
+                        {
+                            "text": "What links here",
+                            "title": "A list of all wiki pages that link here [j]",
+                            "path": "A@/href",
+                            "url": "/index.php/Special:WhatLinksHere/AppSecAsiaPac2013"
+                        },
+                        {
+                            "text": "Related changes",
+                            "title": "Recent changes in pages linked from this page [k]",
+                            "path": "A@/href",
+                            "url": "/index.php/Special:RecentChangesLinked/AppSecAsiaPac2013"
+                        },
+                        {
+                            "text": "Special pages",
+                            "title": "A list of all special pages [q]",
+                            "path": "A@/href",
+                            "url": "/index.php/Special:SpecialPages"
+                        },
+                        {
+                            "text": "Printable version",
+                            "title": "Printable version of this page [p]",
+                            "path": "A@/href",
+                            "url": "/index.php?title=AppSecAsiaPac2013&amp;oldid=147814&amp;diff=prev&amp;printable=yes"
+                        },
+                        {
+                            "text": "Permanent link",
+                            "title": "Permanent link to this revision of the page",
+                            "path": "A@/href",
+                            "url": "/index.php?title=AppSecAsiaPac2013&amp;oldid=147814"
+                        },
+                        {
+                            "text": "Page information",
+                            "path": "A@/href",
+                            "url": "/index.php?title=AppSecAsiaPac2013&amp;action=info"
+                        },
+                        {
+                            "text": "a Creative Commons 3.0 License",
+                            "path": "A@/href",
+                            "url": "http://creativecommons.org/licenses/by-sa/3.0/"
+                        },
+                        {
+                            "text": "Privacy policy",
+                            "title": "OWASP:Privacy policy",
+                            "path": "A@/href",
+                            "url": "/index.php/OWASP:Privacy_policy"
+                        },
+                        {
+                            "text": "About OWASP",
+                            "title": "OWASP:About",
+                            "path": "A@/href",
+                            "url": "/index.php/OWASP:About"
+                        },
+                        {
+                            "text": "Disclaimers",
+                            "title": "OWASP:General disclaimer",
+                            "path": "A@/href",
+                            "url": "/index.php/OWASP:General_disclaimer"
+                        },
+                        {
+                            "alt": "a Creative Commons 3.0 License",
+                            "path": "IMG@/src",
+                            "url": "https://www.owasp.org/images/f/fa/Somerights20.png"
+                        },
+                        {
+                            "path": "A@/href",
+                            "url": "http://creativecommons.org/licenses/by-sa/3.0/"
+                        },
+                        {
+                            "alt": "Powered by MediaWiki",
+                            "path": "IMG@/src",
+                            "url": "/skins/common/images/poweredby_mediawiki_88x31.png"
+                        },
+                        {
+                            "path": "A@/href",
+                            "url": "//www.mediawiki.org/"
+                        },
+                        {
+                            "alt": "Powered by Rackspace Managed Cloud",
+                            "path": "IMG@/src",
+                            "url": "/images/Powered_By_Rackspace_logo.png"
+                        },
+                        {
+                            "path": "A@/href",
+                            "url": "http://www.rackspace.com/cloud/managed_cloud/"
+                        }
+                    ],
+                    "Head": {
+                        "Link": [
+                            {
+                                "path": "LINK@/href",
+                                "rel": "shortcut icon",
+                                "url": "/favicon.ico"
+                            },
+                            {
+                                "path": "LINK@/href",
+                                "rel": "search",
+                                "type": "application/opensearchdescription+xml",
+                                "url": "/opensearch_desc.php"
+                            },
+                            {
+                                "path": "LINK@/href",
+                                "rel": "EditURI",
+                                "type": "application/rsd+xml",
+                                "url": "https://www.owasp.org/api.php?action=rsd"
+                            },
+                            {
+                                "path": "LINK@/href",
+                                "rel": "copyright",
+                                "url": "http://creativecommons.org/licenses/by-sa/3.0/"
+                            },
+                            {
+                                "path": "LINK@/href",
+                                "rel": "alternate",
+                                "type": "application/atom+xml",
+                                "url": "/index.php?title=Special:RecentChanges&amp;feed=atom"
+                            },
+                            {
+                                "path": "LINK@/href",
+                                "rel": "stylesheet",
+                                "url": "https://www.owasp.org/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.action.history.diff&amp;only=styles&amp;skin=vector&amp;*"
+                            },
+                            {
+                                "path": "LINK@/href",
+                                "rel": "stylesheet",
+                                "url": "https://www.owasp.org/load.php?debug=false&amp;lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cskins.vector&amp;only=styles&amp;skin=vector&amp;*"
+                            },
+                            {
+                                "path": "LINK@/href",
+                                "rel": "stylesheet",
+                                "url": "/extensions/HeaderTabs/skins-jquery/ext.headertabs.jquery-large.css"
+                            },
+                            {
+                                "path": "LINK@/href",
+                                "rel": "stylesheet",
+                                "url": "https://www.owasp.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*"
+                            }
+                        ],
+                        "Scripts": [
+                            {
+                                "path": "SCRIPT@/src",
+                                "url": "https://www.owasp.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"
+                            },
+                            {
+                                "path": "SCRIPT@/src",
+                                "url": "https://www.owasp.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"
+                            }
+                        ],
+                        "Metas": [
+                            {
+                                "content": "MediaWiki 1.21.9",
+                                "name": "generator"
+                            },
+                            {
+                                "content": "noindex,nofollow",
+                                "name": "robots"
+                            },
+                            {
+                                "content": "",
+                                "name": "ResourceLoaderDynamicStyles"
+                            }
+                        ],
+                        "Title": "Difference between revisions of \"AppSecAsiaPac2013\" - OWASP"
+                    }
+                },
+                "Entity-Digest": "sha1:KBA2OYY422T3BXHERLO3E4XUKJTDT4J5"
+            }
+        }
+    },
+    "Container": {
+        "Compressed": true,
+        "Gzip-Metadata": {
+            "Footer-Length": "8",
+            "Deflate-Length": "43056",
+            "Header-Length": "10",
+            "Inflated-CRC": "-824125035",
+            "Inflated-Length": "153314"
+        },
+        "Offset": "748126435",
+        "Filename": "CC-MAIN-20140707234000-00007-ip-10-180-212-248.ec2.internal.warc.gz"
+    }
+}

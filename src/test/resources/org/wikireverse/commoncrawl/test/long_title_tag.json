@@ -1,0 +1,124 @@
+{
+    "Container": {
+        "Compressed": true,
+        "Filename": "CC-MAIN-20131218055411-00099-ip-10-33-133-15.ec2.internal.warc.gz",
+        "Gzip-Metadata": {
+            "Deflate-Length": "2949",
+            "Footer-Length": "8",
+            "Header-Length": "10",
+            "Inflated-CRC": "-1495405462",
+            "Inflated-Length": "7546"
+        },
+        "Offset": "376437"
+    },
+    "Envelope": {
+        "Actual-Content-Length": "6964",
+        "Block-Digest": "sha1:LSEG37A4AO5BDZ5R45MCHNUNYEIY736J",
+        "Format": "WARC",
+        "Payload-Metadata": {
+            "Actual-Content-Type": "application/http; msgtype=response",
+            "HTTP-Response-Metadata": {
+                "Entity-Digest": "sha1:3WSEQMACDAA3GLCYPWICFBTZRS7AAVTT",
+                "Entity-Length": "6795",
+                "Entity-Trailing-Slop-Bytes": "0",
+                "HTML-Metadata": {
+                    "Head": {
+                        "Link": [
+                            {
+                                "path": "LINK@/href",
+                                "rel": "stylesheet",
+                                "type": "text/css",
+                                "url": "http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,800italic,400,700,800"
+                            },
+                            {
+                                "path": "LINK@/href",
+                                "rel": "stylesheet",
+                                "url": "assets/css/style.css"
+                            },
+                            {
+                                "path": "LINK@/href",
+                                "rel": "stylesheet",
+                                "url": "assets/font-awesome/css/font-awesome.min.css"
+                            }
+                        ],
+                        "Metas": [
+                            {
+                                "content": "width=device-width, initial-scale=1.0",
+                                "name": "viewport"
+                            },
+                            {
+                                "content": "text/html; charset=UTF-8",
+                                "http-equiv": "Content-Type"
+                            },
+                            {
+                                "content": "buy domain,domain name,affordable domain names",
+                                "name": "keywords"
+                            },
+                            {
+                                "content": "Lorem ipsum dolor sit amet, ne eos perfecto efficiendi inciderint. Cum oblique persius nominati an. Sea id eruditi voluptatibus, cu cum verear evertitur. Id reque oblique honestatis est, an tota ridens eripuit eum, mel doctus dolorem temporibus te.",
+                                "name": "description"
+                            },
+                            {
+                                "content": "QBKL, http://qbkl.net",
+                                "name": "author"
+                            }
+                        ],
+                        "Scripts": [
+                            {
+                                "path": "SCRIPT@/src",
+                                "url": "//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
+                            },
+                            {
+                                "path": "SCRIPT@/src",
+                                "url": "assets/js/jquery-1.10.2.min.js"
+                            }
+                        ],
+                        "Title": "123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 "
+                    },
+                    "Links": [
+                        {
+                            "path": "A@/href",
+                            "text": "Common Crawl",
+                            "url": "http://commoncrawl.org"
+                        },
+                        {
+                            "path": "A@/href",
+                            "text": "Danger Zone (song) - Wikipedia, the free encyclopedia",
+                            "url": "http://en.wikipedia.org/wiki/Danger_Zone_(song)"
+                        }
+                    ]
+                },
+                "Headers": {
+                    "Connection": "close",
+                    "Content-Type": "text/html",
+                    "Date": "Sun, 22 Dec 2013 11:53:37 GMT",
+                    "Server": "nginx/1.4.3",
+                    "Vary": "Accept-Encoding",
+                    "X-Powered-By": "PHP/5.5.6"
+                },
+                "Headers-Length": "169",
+                "Response-Message": {
+                    "Reason": "OK",
+                    "Status": "200",
+                    "Version": "HTTP/1.1"
+                }
+            },
+            "Trailing-Slop-Length": "4"
+        },
+        "WARC-Header-Length": "578",
+        "WARC-Header-Metadata": {
+            "Content-Length": "6964",
+            "Content-Type": "application/http; msgtype=response",
+            "WARC-Block-Digest": "sha1:LSEG37A4AO5BDZ5R45MCHNUNYEIY736J",
+            "WARC-Concurrent-To": "<urn:uuid:e6c90d33-ae06-404c-9629-1ff3cc8ee74e>",
+            "WARC-Date": "2013-12-22T11:53:38Z",
+            "WARC-IP-Address": "66.228.59.130",
+            "WARC-Payload-Digest": "sha1:3WSEQMACDAA3GLCYPWICFBTZRS7AAVTT",
+            "WARC-Record-ID": "<urn:uuid:8163b458-2f56-49f7-9298-a88f05391a68>",
+            "WARC-Target-URI": "http://example.com/page1.html",
+            "WARC-Truncated": "length",
+            "WARC-Type": "response",
+            "WARC-Warcinfo-ID": "<urn:uuid:8746bab2-8935-464b-8d99-02c4890ead94>"
+        }
+    }
+}
