@@ -37,7 +37,7 @@
       <plugin>
   		<groupId>org.apache.maven.plugins</groupId>
   		<artifactId>maven-shade-plugin</artifactId>
-  		<version>2.0</version>
+  		<version>2.1</version>
   		<configuration>
   		</configuration>
   		<executions>
@@ -49,6 +49,16 @@
   			</execution>
   		</executions>
 		</plugin>
+
+    <plugin>
+       <groupId>org.apache.maven.plugins</groupId>
+       <artifactId>maven-jar-plugin</artifactId>
+       <version>2.4</version>
+       <configuration>
+         <forceCreation>true</forceCreation>
+       </configuration>
+    </plugin>
+
     </plugins>
   </build>
 
@@ -77,11 +87,14 @@
   		<artifactId>guava</artifactId>
   		<version>13.0</version>
   	</dependency>
+
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
-      <version>3.8.1</version>
+      <version>4.11</version>
+      <scope>test</scope>
     </dependency>
+
   	<dependency>
   		<groupId>log4j</groupId>
   		<artifactId>log4j</artifactId>
