@@ -103,9 +103,28 @@ Config dir /Users/ross/.elasticrawl deleted
 Config deleted
 ```
 
+
+
+# Quickstart Build Instructions
+
+* Build the package
+
+```
+$ mvn clean package
+```
+
+* Upload to S3
+
+```
+$ aws s3 cp ./target/wikireverse-0.0.1.jar s3://yourbucket/jar/new-1.0.jar
+```
+
+* Update ~/.elasticrawl/jobs.yml and continue as above.
+
+
 ## TODO
 
-* Add more detail on building the code using Maven and Eclipse.
+* Add even more detail on building the code using Maven and Eclipse.
 
 ## Thanks
 
